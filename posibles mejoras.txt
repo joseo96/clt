@@ -1,0 +1,22 @@
+
+SQL
+
+- Orden: si bien organice la codificacion con comentarios, es posible organizarlo aun mejor para el entendimiento de terceros.
+
+- Carga de datos ineficiente.
+
+- La seleccion del tipo de variables puede mejorar para optimizar la base de datos.
+
+- Se omitio el uso de claves primarias y foraneas para evitar errores.
+
+Power BI
+
+- No se editaron los elementos de los grafico (leyendas, ejes, etc.) 
+
+- Mejor uso de graficos. (limitado por datos)
+
+- Utilizacion de filtros y variables de seleccion.
+
+- botones (filtrar por divisa, por año si hubiese 2023)
+
+- uso de colores y formatos de letra para que el dashboard sea mas agradable a la vista.
